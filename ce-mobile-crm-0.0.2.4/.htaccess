@@ -1,0 +1,7 @@
+# APACHE CONFIG
+
+# Allowed index file
+DirectoryIndex index.html
+
+# Disable directory listing
+Options -Indexes
